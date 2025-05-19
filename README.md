@@ -14,11 +14,11 @@
 - Front-end:
   - HTML5
   - CSS3
-  - JavaScript (ou outro framework se desejar, ex: React)
+  - JavaScript (React)
 
 - Back-end:
-  - [Escolha sua stack: Flask, Node.js, Django, etc.]
-  - Banco de dados (ex: SQLite, PostgreSQL, MySQL)
+  - Flask
+  - Banco de dados 
 
 ## 🚧 Em desenvolvimento
 
